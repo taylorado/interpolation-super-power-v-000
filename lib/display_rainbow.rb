@@ -1,7 +1,6 @@
 # Write your #display_rainbow method here
-colors = []
+colors = Array.new
 
-def display_rainbow(colors[])
+def display_rainbow(colors)
 
 end
-  
